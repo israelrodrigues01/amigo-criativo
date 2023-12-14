@@ -5,6 +5,7 @@
 body {
     font-family: 'Poor Story', cursive;
     background: #bdffbd;
+    overflow-x: hidden;
 }
 
 .wrapper {
@@ -121,9 +122,19 @@ body {
 }
 
 @media (max-width: 620px) {
+    ul{
+        padding: 0 !important;
+    }
+    .wrapper{
+        padding: 0 10px !important;
+    }
     .item {
         width: 100%;
         display: block;
+    }
+    
+    .polaroid{
+        width: 100%;
     }
 
     .caption {
