@@ -29,7 +29,7 @@ var arrayImages = [
     },
     {
         "image": "assets/images/Por isso eu prefiro sorrisos, e os presentes que a vida trouxe pra perto de mim..jpg",
-        "description": `E claro, não pode faltar um momento que todos estivessem com um sorriso lindo, e como Raquel escreve sua história: "Por isso eu prefiro sorrisos, e os presentes que a vida trouxe pra perto de mim" - Raquel.`,
+        "description": `E claro, não pode faltar um momento que todos estivessem com um sorriso lindo, e como Raquel escrevee em sua história: "Por isso eu prefiro sorrisos, e os presentes que a vida trouxe pra perto de mim" - Raquel.`,
     },
     {
         "image": "assets/images/Gerando mais um amor!.jpg",
@@ -37,7 +37,7 @@ var arrayImages = [
     },
     {
         "image": "assets/images/Eu vim do céu por causa do amor !.jpg",
-        "description": "...e esse dia chegou, o mais novo Amor estava mais perto e amado do que nunca, o pequeno Miguel chega para alegra ainda mais seus pais.",
+        "description": "...e esse dia chegou, o mais novo Amor estava mais perto e amado do que nunca, o pequeno Miguel chega para alegrar ainda mais seus pais.",
     },
     {
         "image": "assets/images/Meu lampiãozinho.jpg",
@@ -45,7 +45,7 @@ var arrayImages = [
     },
     {
         "image": "assets/images/Os dias de lutas foram intensos, mas a vitória só foi possível porque Deus estava ao nosso lado. Só gratidão.jpg",
-        "description": `É, não foi nada fácil para Raquel, nesse período todo esteve em busca de mais progresso em sua vida e para sua família. E como ela menciona na história "Os dias de lutas foram intensos, mas a vitória só foi possível porque Deus estava ao nosso lado" - Raquel`,
+        "description": `É, mas não foi nada fácil para Raquel, nesse período todo esteve em busca de mais progresso em sua vida e para sua família. E como ela menciona na história "Os dias de lutas foram intensos, mas a vitória só foi possível porque Deus estava ao nosso lado" - Raquel`,
     },
     {
         "image": "assets/images/Ter um lugar pra ir é lar. Ter alguém para amar é família. Ter os dois é benção..jpg",
