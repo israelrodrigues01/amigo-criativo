@@ -21,8 +21,7 @@
     padding: 5px 2px;
     line-height: 22px;
     color: blue;
-    font-size: 24px;
-    font-family: 'Black Ops One', cursive;
+    font-size: 30px;
     text-transform: uppercase;
     text-align: center;
     opacity: 0.4;
@@ -60,7 +59,6 @@
     top: 0px;
     color: rgba(128, 128, 128, .6);
     font-size: 30px;
-    font-family: cursive;
     user-select: none;
     cursor: pointer;
 }
