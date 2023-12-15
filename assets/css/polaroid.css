@@ -118,18 +118,20 @@ body {
 }
 
 @media (max-width: 620px) {
-    ul{
+    ul {
         padding: 0 !important;
     }
-    .wrapper{
+
+    .wrapper {
         padding: 0 10px !important;
     }
+
     .item {
         width: 100%;
         display: block;
     }
-    
-    .polaroid{
+
+    .polaroid {
         width: 100%;
     }
 
@@ -137,4 +139,20 @@ body {
         display: flex;
         flex-wrap: wrap;
     }
+}
+
+.audio-images {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    z-index: 9;
+}
+
+.audio-images img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    cursor: pointer;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
 }
