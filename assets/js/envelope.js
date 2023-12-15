@@ -4,7 +4,7 @@ $('#card').on('click', function () {
     setTimeout(()=>{
         $('.presente-extra').removeClass('d-none');
         $('.rubber').text('Para Raquel')
-    }, 1)
+    }, 60000)
 });
 
 $('.closed-envelope').on('click', function () {
