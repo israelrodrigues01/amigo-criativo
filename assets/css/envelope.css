@@ -44,8 +44,9 @@
 
 .content-envelope {
     width: 100%;
-    height: 100vh;
+    min-height: 100vh;
     overflow-x: hidden;
+    padding: 50px 0;
     z-index: 1;
     display: flex;
     align-items: center;
@@ -65,4 +66,22 @@
 
 .closed-envelope:hover{
     color: rgba(128, 128, 128, .9);
+}
+
+.presente-extra-button{
+    background-color: #C8102E;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.presente-extra-button:hover{
+    background-color: #3492b8;
 }
