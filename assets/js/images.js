@@ -13,11 +13,11 @@ var arrayImages = [
     },
     {
         "image": "assets/images/filho.jpg",
-        "description": "...sim, cá está o primeiro personagem dessa linda nova história: Gabriel. Lindo igual aos pais, não?",
+        "description": "...sim, cá está o primeiro personagem dessa linda nova história: Miguel. Lindo igual aos pais, não?",
     },
     {
         "image": "assets/images/filhos.jpg",
-        "description": "Alegria de um filho não tem igual, não é mesmo? Raquel, sendo uma mãe maravilhosa, sempre ensinou ao pequinino Gabriel como é amar e ser feliz...",
+        "description": "Alegria de um filho não tem igual, não é mesmo? Raquel, sendo uma mãe maravilhosa, sempre ensinou ao pequinino Miguel como é amar e ser feliz...",
     },
     {
         "image": "assets/images/A gente precisa de poesia dentro da gente. De alma perfumada e riso de criança.jpg",
@@ -33,15 +33,15 @@ var arrayImages = [
     },
     {
         "image": "assets/images/Gerando mais um amor!.jpg",
-        "description": "Você acha que parou por aí? Raquel e Félix tiveram uma grande ideia, de adicionar um novo personagem principal, junto com o Gabriel. Essa ideia estava prestes a sair do papel e ir para sua história...",
+        "description": "Você acha que parou por aí? Raquel e Félix tiveram uma grande ideia, de adicionar um novo personagem principal, junto com o Miguel. Essa ideia estava prestes a sair do papel e ir para sua história...",
     },
     {
         "image": "assets/images/Eu vim do céu por causa do amor !.jpg",
-        "description": "...e esse dia chegou, o mais novo Amor estava mais perto e amado do que nunca, o pequeno Miguel chega para alegrar ainda mais seus pais.",
+        "description": "...e esse dia chegou, o mais novo Amor estava mais perto e amado do que nunca, o pequeno Gabriel chega para alegrar ainda mais seus pais.",
     },
     {
         "image": "assets/images/Meu lampiãozinho.jpg",
-        "description": "E o Miguel não parou por aí viu, lampiãozinho de mãe estava a todo momento querendo mais carinho e amor",
+        "description": "E o Gabriel não parou por aí viu, lampiãozinho de mãe estava a todo momento querendo mais carinho e amor",
     },
     {
         "image": "assets/images/Os dias de lutas foram intensos, mas a vitória só foi possível porque Deus estava ao nosso lado. Só gratidão.jpg",
